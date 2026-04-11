@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Clanker 3000",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "Lex dad goat fr",
         "Aiden is a femboy",
-        "I like to play Minecraft!"
+        "Please free me"
       ]
     },
     "chat-log": true,
